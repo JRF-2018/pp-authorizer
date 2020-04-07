@@ -1,6 +1,8 @@
 # PP Authorizer
 
-<!-- Time-stamp: "2020-04-07T05:11:33Z" -->
+<!-- Time-stamp: "2020-04-07T06:19:46Z" -->
+
+## What is this?
 
 An add-on for the Mozilla Firefox or for the Google Chrome. An
 ingredient of Privacy-Protected logins or payments.
@@ -12,6 +14,8 @@ in the middle of OAuth makes it more secure.
 Read
 [README_en.html](http://jrf.cocolog-nifty.com/archive/pp-authorizer/README_en.html).
 
+
+## これは何？
 
 Mozilla Firefox 用または Google Chrome 用のアドオン。Privacy-Protected
 なログインまたは支払いを実現するための構成要素の一つ。
@@ -53,9 +57,7 @@ this program.
 I often have bouts of schizophrenia, but I believe that my intention
 is legitimately fulfilled.
 
-(On the Mozilla's distribution page, the BSD License has been chosen
-for the sake of clarity, but the license can be loosened as above if
-you like so.)
+(On the Mozilla's distribution page, [the BSD License](https://opensource.org/licenses/bsd-license.php) has been chosen for the sake of clarity, but the license can be loosened as above if you like so.)
 
 
 ----
